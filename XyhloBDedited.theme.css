@@ -24,7 +24,6 @@
 --back-user-buttons: #770e0e;
 --quaternary-color: #1e1e2100;
 --primary-color: var(--quaternary-color);
-  /*unread pill*/
   --unread-pill: rgb(255, 0, 0);
   --unread-pill-shadow: rgb(255, 255, 255);
   }
