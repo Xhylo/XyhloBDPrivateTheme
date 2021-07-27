@@ -1,0 +1,24 @@
+/**
+* @name XyhloBD
+* @version 1.0
+* @description  Red XyhloBD theme with less cluter as possible
+* @author Xyhlo
+*/
+@import url("https://xhylo.github.io/XyhloBD.theme.css/XyhloBDedited.theme.css");
+:root {
+--roundness: 50px;
+--main-color: rgba(231, 0, 0, 0.575);
+--hover-color: rgb(141, 21, 21);
+--home-color: #00ff6200;
+--shadow: #00000066;
+--customFont: 'Quicksand';
+--settingsiconssize: 18px;
+--settingsiconsgap: 14px;
+--dmh-columns: 3;
+--user-buttons-spacing: 2px;
+--back-user-buttons: #770e0e;
+--quaternary-color: #1e1e2100;
+--primary-color: var(--quaternary-color);
+  --unread-pill: rgb(255, 0, 0);
+  --unread-pill-shadow: rgb(255, 255, 255);
+  }
